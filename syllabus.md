@@ -98,12 +98,12 @@ The teaching fellows will provide in-person and online office hours at several d
 ## Grading
 This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
 
-Class Activities (10%)
-Lab Pre-reading Quizzes (10%)
-Homework:
-  Visualization Design Quizzes (15%)
-  Programming Assignments (30%)
-Final Project (35%)
+* Class Activities (10%)
+* Lab Pre-reading Quizzes (10%)
+* Homework:
+    * Visualization Design Quizzes (15%)
+    * Programming Assignments (30%)
+* Final Project (35%)
 
 Note that this grade breakdown is likely to be updated by the start of the semester to reflect our updated course material. Your participation grade includes participating in class and on EdStem, and being helpful to other students. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to <jbeyer@g.harvard.edu> within one week of receiving the grade.
 
@@ -156,9 +156,9 @@ If the assignment allows it and for your projects, you may use third-party libra
 Using sources responsibly (https://extension.harvard.edu/for-students/support-and-services/using-sources-effectively-and-responsibly/Links to an external site.) is an essential part of your Harvard education. We provide additional information about our expectations regarding academic integrity on our website. We invite you to review that information and to check your understanding of academic citation rules by completing two free online 15-minute tutorials that are also available on our site. (The tutorials are anonymous open-learning tools.)
 
 ### Accessibility
-*College students:* Harvard University values inclusive excellence and providing equal educational opportunities for all students. Our goal is to remove barriers for disabled students related to inaccessible elements of instruction or design in this course. If reasonable accommodations are necessary to provide access, please contact the Disability Access Office (DAO) (https://aeo.fas.harvard.edu/). Accommodations do not alter fundamental requirements of the course and are not retroactive. Students should request accommodations as early as possible, since they may take time to implement. Students should notify DAO at any time during the semester if adjustments to their communicated accommodation plan are needed.
+*College students:* Harvard University values inclusive excellence and providing equal educational opportunities for all students. Our goal is to remove barriers for disabled students related to inaccessible elements of instruction or design in this course. If reasonable accommodations are necessary to provide access, please contact the [Disability Access Office (DAO)](https://aeo.fas.harvard.edu/). Accommodations do not alter fundamental requirements of the course and are not retroactive. Students should request accommodations as early as possible, since they may take time to implement. Students should notify DAO at any time during the semester if adjustments to their communicated accommodation plan are needed.
 
-*DCE students:* Harvard Extension School is committed to providing an inclusive, accessible academic community for students with disabilities and chronic health conditions. The Accessibility Services Office (ASO) (https://extension.harvard.edu/for-students/support-and-services/accessibility-services/Links to an external site.) offers accommodations and supports to students with documented disabilities. If you have a need for accommodations or adjustments, contact Accessibility Services directly via email at accessibility@extension.harvard.edu or by phone at 617-998-9640.
+*DCE students:* Harvard Extension School is committed to providing an inclusive, accessible academic community for students with disabilities and chronic health conditions. The [Accessibility Services Office (ASO)](https://extension.harvard.edu/for-students/support-and-services/accessibility-services/Links to an external site.) offers accommodations and supports to students with documented disabilities. If you have a need for accommodations or adjustments, contact Accessibility Services directly via email at accessibility@extension.harvard.edu or by phone at 617-998-9640.
 
 ## Credits
 Some of the material in this course is based on the classes taught by Alexander Lex at the University of Utah, Carlos Scheidegger at the University of Arizona, Marc Streit at JKU Linz, Pat Hanrahan at Stanford, Jeff Heer at the University of Washington, Hans-Joerg Schulz at the University of Rostock, Nils Gehlenborg at Harvard Medical School, Torsten Möller at the University of Vienna, Tamara Munzener at the University of British Columbia, Helwig Hauser at the University of Bergen, Maneesh Agrawala at UC Berkeley, and Hendrik Strobelt at IBM Research. We have heavily drawn on materials and examples found online and tried our best to give credit by linking to the original source. Please contact us if you find materials where the credit is missing or that you would rather have removed.
