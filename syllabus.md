@@ -98,11 +98,12 @@ The teaching fellows will provide in-person and online office hours at several d
 ## Grading
 This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
 
-Participation (10%)
-Quizzes (10%)
-Homework Assignments (30%)
-Visualization Design Exercises and Quizzes (20%)
-Final Project (30%)
+Class Activities (10%)
+Lab Pre-reading Quizzes (10%)
+Homework:
+  Visualization Design Quizzes (15%)
+  Programming Assignments (30%)
+Final Project (35%)
 
 Note that this grade breakdown is likely to be updated by the start of the semester to reflect our updated course material. Your participation grade includes participating in class and on EdStem, and being helpful to other students. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to <jbeyer@g.harvard.edu> within one week of receiving the grade.
 
@@ -132,22 +133,22 @@ For each class and lab, please take care to work through and complete the weekâ€
 *DCE students:* Attendance for both the virtual class section and the virtual lab are strongly encouraged but not mandatory. You might be excused from the virtual class or lab on an individual basis. DCE students participate completely online, there is no in-person participation for DCE students.
 
 ### Late Policy
-We will deduct 10% of an assignment's points per day that it is submitted late. However, we will drop your lowest homework score at the end of the semester. We give no extra extensions for being sick or traveling, so we strongly encourage you to choose wisely on which homework you want to drop.
+You can use 4 late days for your homework throughout the semester (not on the final project). However, you can use no more than 2 late days on any single homework. We post assignments ahead of time and give you plenty of time to complete them. So please plan ahead, we do not make any exceptions. For unexcused late submissions, we will deduct 10% of an assignment's points per day that it is submitted late.
 
 Rare exceptions can be made on a case-by-case basis. If you have a verifiable medical condition or other special circumstances that interfere with your coursework, please let the head TF know as soon as possible. You will need to provide a written note or email from a medical professional or your resident dean confirming your inability to participate in course work.
+
 
 ### Collaboration Policy
 We expect you to adhere to the Harvard Honor Code at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
 
 You may discuss your homework and labs with other students, but you are expected to be intellectually honest and give credit where credit is due. In particular:
 
-* You may submit the same lab notebook as your lab pair partner, but you must add their name to your notebook submission;
-* You have to complete your homework and weekly quizzes entirely on your own;
-* You may discuss your homework with your lab partner for that week. You can discuss your code structure and help each other debugging. However, you may not share homework code.
-* You cannot share your homework code with anyone else, including on EdStem;
-* You may not submit the same or similar work to this course that you have submitted or will submit to another, and
-* You may not provide or make available solutions to individuals who take or may take this course in the future.
-
+You may submit the same lab notebook as your lab pair partner, but you must add their name to your notebook submission;
+You have to complete your homework and weekly quizzes entirely on your own;
+You may discuss your homework with your lab partner for that week. You can discuss your code structure and help each other debugging. However, you may not share homework code.
+You cannot share your homework code with anyone else, including on EdStem;
+You may not submit the same or similar work to this course that you have submitted or will submit to another, and
+You may not provide or make available solutions to individuals who take or may take this course in the future.
 If the assignment allows it and for your projects, you may use third-party libraries and example code, so long as the material is available to all students in the class and you give proper attribution. Do not remove any original copyright notices and headers.
 
 *DCE Students:* You are responsible for understanding Harvard Extension School policies on academic integrity (https://extension.harvard.edu/for-students/student-policies-conduct/academic-integrity/Links to an external site.) and how to use sources responsibly. Stated most broadly, academic integrity means that all course work submitted, whether a draft or a final version of a paper, project, take-home exam, online exam, computer program, oral presentation, or lab report, must be your own words and ideas, or the sources must be clearly acknowledged. The potential outcomes for violations of academic integrity are serious and ordinarily include all of the following: required withdrawal (RQ), which means a failing grade in the course (with no refund), the suspension of registration privileges, and a notation on your transcript.
@@ -155,7 +156,7 @@ If the assignment allows it and for your projects, you may use third-party libra
 Using sources responsibly (https://extension.harvard.edu/for-students/support-and-services/using-sources-effectively-and-responsibly/Links to an external site.) is an essential part of your Harvard education. We provide additional information about our expectations regarding academic integrity on our website. We invite you to review that information and to check your understanding of academic citation rules by completing two free online 15-minute tutorials that are also available on our site. (The tutorials are anonymous open-learning tools.)
 
 ### Accessibility
-*College students:* Any student receiving accommodations through the Accessible Education Office should email their AEO letter to <jbeyer@g.harvard.edu> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
+*College students:* Harvard University values inclusive excellence and providing equal educational opportunities for all students. Our goal is to remove barriers for disabled students related to inaccessible elements of instruction or design in this course. If reasonable accommodations are necessary to provide access, please contact the Disability Access Office (DAO) (https://aeo.fas.harvard.edu/). Accommodations do not alter fundamental requirements of the course and are not retroactive. Students should request accommodations as early as possible, since they may take time to implement. Students should notify DAO at any time during the semester if adjustments to their communicated accommodation plan are needed.
 
 *DCE students:* Harvard Extension School is committed to providing an inclusive, accessible academic community for students with disabilities and chronic health conditions. The Accessibility Services Office (ASO) (https://extension.harvard.edu/for-students/support-and-services/accessibility-services/Links to an external site.) offers accommodations and supports to students with documented disabilities. If you have a need for accommodations or adjustments, contact Accessibility Services directly via email at accessibility@extension.harvard.edu or by phone at 617-998-9640.
 
