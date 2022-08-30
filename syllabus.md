@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus 2021
+title: Syllabus 2022
 permalink: /syllabus/
 menu: Syllabus
 order: 2
