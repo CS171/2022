@@ -48,11 +48,13 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/108108)
 * Zhutian Chen - Postdoc, Visual Computing Group
 * Jakob Troidl - Phd Candidate, Visual Computing Group
 * Robert Roessler - Phd Candidate, German Studies
+* Kidist Alemu - AB/SM Computer Science
 * Elizabeth Ling - Computer Science concentrator
-* Eshika Saxena
-* Xinyi Li
-* Ethan McFarlin
-* Diana Feng
+* Eshika Saxena - Computer Science concentrator
+* Xinyi Li - MS in Data Science, G2
+* Ethan McFarlin - Computer Science concentrator
+* Diana Feng - PhD Student, Education (Learning, Innovation and Education Lab)
+* SSiva Thangaraj - Specialist, Data Analytics / Cloud Infrastructure
 * Richard Morello
 * TBA
 
