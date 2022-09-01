@@ -55,8 +55,7 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/108108)
 * Ethan McFarlin - Computer Science concentrator
 * Diana Feng - PhD Student, Education (Learning, Innovation and Education Lab)
 * SSiva Thangaraj - Specialist, Data Analytics / Cloud Infrastructure
-* Richard Morello
-* TBA
+* Richard Morello - Data Science, Harvard MLA Extension Studies
 
 
 
