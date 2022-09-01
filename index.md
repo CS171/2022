@@ -46,7 +46,7 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/108108)
 ### Teaching Fellows
 
 * Zhutian Chen - Postdoc, Visual Computing Group
-* Jakob Troidl - Phd Candidate, Visual Computing Group
+* Jakob Troidl - Phd Student, Visual Computing Group
 * Robert Roessler - Phd Candidate, German Studies
 * Kidist Alemu - AB/SM Computer Science
 * Elizabeth Ling - Computer Science concentrator
