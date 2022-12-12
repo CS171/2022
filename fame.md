@@ -6,6 +6,25 @@ order: 8
 menu: Fame
 ---
 
+## Best Projects Fall 2022
+These are the best projects (out of 40 in total) in 2022.
+
+### Winner
+[Fantastic Facts and How to Fake Them](https://iankelk.github.io/fantastic-news/)
+Ronan Fonseca, Ian Kelk
+
+### Runner Up
+[Planet Habitability](https://conc2304.github.io/vis-final/)
+Jose Conchello-Bueyes, Ben Fulroth, Patrick Niebrzydowski
+
+### Honorable Mentions
+[Raising the Bar: An Analysis of Athletes’ Performance over Time](https://dmkelly848.github.io/dmkelly848/)
+Danielle Kelly, Nick Lauer, Rohan Sheth
+
+[Energy Crisis](https://cs171-final-projec-energy-crisis.github.io/energy-crisis/)
+Kritika Kharbanda, Karen Kuo, Aditi Memani
+
+
 ## Best Projects Fall 2021
 These are the best projects (out of 29 in total) in 2021.
 
