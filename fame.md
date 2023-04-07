@@ -262,7 +262,7 @@ The prize for our winners: a 3D pie chart! We took a bite though!
 
 
 
-### Runner Ups Places 2-3
+### Runner Ups Places 2 and 3
 
 [Data Driven Dota](http://d2dota.com/)
 Robbie Gibson, Benjy Levin, Huihui Fan
