@@ -267,7 +267,7 @@ The prize for our winners: a 3D pie chart! We took a bite though!
 [Data Driven Dota](http://d2dota.com/)
 Robbie Gibson, Benjy Levin, Huihui Fan
 
-[Fukushima Memoriam (Japan's Triple Disaster)](http://beta.fukushimajapan.org/website.html)
+[Fukushima Memoriam (Japan's Triple Disaster)](https://vimeo.com/518125390)
 Molly Lloyd, Anthony Thul, Eric Coletti
 
 
